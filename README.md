@@ -5,8 +5,7 @@
 我们深知，代码不仅仅是冷冰冰的字符，更是连接开发者与患者的桥梁，是用技术守护生命的温暖力量。
 <img width="1076" alt="image" src="https://github.com/user-attachments/assets/a7e755ea-a444-4ee8-be69-9c31d8705806" />
 
-<img width="1000" height="583" alt="image" src="https://github.com/user-attachments/assets/25a5060f-53bc-4406-bde3-6b4012da2724" />
-
+<img width="1000" height="583" alt="image" src="https://fastly.jsdelivr.net/gh/bucketio/img13@main/2025/09/11/1757554470532-71556a60-4e2a-4c0c-bd76-8278ca65a4b7.png" />
 
 ## 🚀 项目简介
 
